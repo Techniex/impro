@@ -1,0 +1,25 @@
+Name,Column,Row,Pallet,Red,Green,Blue
+Dark Skin,0,0,square,115,82,68
+Light Skin,1,0,square,194,150,130
+Blue Sky,2,0,square,98,122,157
+Foliage,3,0,square,87,108,67
+Blue Flower,4,0,square,133,128,177
+Bluish Green,5,0,square,103,189,170
+Orange,0,1,square,214,126,44
+Purplish Blue,1,1,square,80,91,166
+Moderate Red,2,1,square,193,90,99
+Purple,3,1,square,94,60,108
+Yellow Green,4,1,square,157,188,64
+Orange Yellow,5,1,square,224,163,46
+Blue,0,2,square,56,51,150
+Green,1,2,square,70,148,73
+Red,2,2,square,175,54,60
+Yellow,3,2,square,231,199,31
+Magenta,4,2,square,187,86,149
+Cyan,5,2,square,8,133,161
+White 0.05*,0,3,square,243,243,243
+Neutral 8,1,3,square,200,200,200
+Neutral 6.5,2,3,square,160,160,160
+Neutral 5,3,3,square,122,122,122
+Neutral 3.5,4,3,square,85,85,85
+Black,5,3,square,52,52,52
