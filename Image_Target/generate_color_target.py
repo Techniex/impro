@@ -65,17 +65,17 @@ def generate_rectangle_color_target(screen_resolution, color_data, print_colorin
 
         font = cv2.FONT_HERSHEY_COMPLEX
         if pgap < 35:
-            font_scale = 0.75
+            font_scale = 0.5
             font_scale_s = 0.25
             thickness = 1
             logosize = (pgap-5, pgap-5)
         elif pgap >= 35 and pgap < 50:
-            font_scale = 1
+            font_scale = 0.75
             font_scale_s = 0.5
             thickness = 1
             logosize = (pgap-10, pgap-10)
         elif pgap >= 50 and pgap < 70:
-            font_scale = 1.5
+            font_scale = 1
             font_scale_s = 0.65
             thickness = 2
             logosize = (pgap-15, pgap-15)
